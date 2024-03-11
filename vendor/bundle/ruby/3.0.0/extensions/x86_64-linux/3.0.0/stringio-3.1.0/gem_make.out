@@ -1,0 +1,18 @@
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+/home/lenovo/.rvm/rubies/ruby-3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-ohchah sitelibdir\=./.gem.20240110-6483-ohchah clean
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-ohchah sitelibdir\=./.gem.20240110-6483-ohchah
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-ohchah sitelibdir\=./.gem.20240110-6483-ohchah install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240110-6483-ohchah
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-ohchah sitelibdir\=./.gem.20240110-6483-ohchah clean

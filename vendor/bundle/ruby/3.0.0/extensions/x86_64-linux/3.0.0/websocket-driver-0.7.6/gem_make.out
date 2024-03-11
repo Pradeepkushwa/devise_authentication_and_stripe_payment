@@ -1,0 +1,18 @@
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/lenovo/.rvm/rubies/ruby-3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-wvc5ps sitelibdir\=./.gem.20240110-6483-wvc5ps clean
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-wvc5ps sitelibdir\=./.gem.20240110-6483-wvc5ps
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-wvc5ps sitelibdir\=./.gem.20240110-6483-wvc5ps install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20240110-6483-wvc5ps
+
+current directory: /home/lenovo/Desktop/devise/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240110-6483-wvc5ps sitelibdir\=./.gem.20240110-6483-wvc5ps clean
